@@ -1,1 +1,0 @@
-app para ativação dos reles foi feito atraves do MIT APP INVENTOR e o arquivo .aia deve ser importado para a ide no seguinte site: http://ai2.appinventor.mit.edu/
